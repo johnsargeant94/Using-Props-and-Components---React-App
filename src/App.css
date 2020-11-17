@@ -1,0 +1,11 @@
+body {
+  background-color: orange;
+}
+
+.title{
+  color: blue;
+}
+
+#watermelonImage {
+  width: 500px;
+}
